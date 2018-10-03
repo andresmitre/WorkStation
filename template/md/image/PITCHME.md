@@ -41,22 +41,19 @@ Contained background image template.
 
 [comment]: <> (@snap[south-west template-note text-white]
 Transparent background with gradient template.
-@snapend
-)
+@snapend)
 
 @snap[south-east text-white]
-@size[0.3em](Lego Batman Clipart by Clipart.info is licensed under CC BY 4.0)
+@size[0.3em](HUMAN-ENTER COMPUTER LAB)
 @snapend
 
 [comment]: <> (+++?image=template/img/geek.png&repeat=repeat-x&color=#F5DB2E&size=25% auto
 +++?image=template/img/geek.png&repeat=repeat-x&color=#F5DB2E&size=25% auto
-@title[Repeat Background]
-)
+@title[Repeat Background])
 
 [comment]: <> (@snap[north-east text-black span-70]
 @quote[Beware of geeks bearing formulas.]
-@snapend
-)
+@snapend)
 
 [comment]: <> (@snap[south-west template-note text-black]
 Transparent background image-repeat template.
