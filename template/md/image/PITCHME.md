@@ -38,9 +38,18 @@ Office.
 Human-Center Computer Lab.
 @snapend
 
-
-
 +++?image=template/img/4.jpg
+@title[Transparent Background]
+
+
+@snap[south-east template-note text-white]
+Human-Center Computer Lab.
+@snapend
+
+
+
+
++++?image=template/img/5.jpg
 @title[Positioned Background]
 
 ## Is the @size[2.2em](grass) @color[green](always) greener on the other side?
