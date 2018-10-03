@@ -57,3 +57,23 @@ Human-Center Computer Lab.
 @snap[north-east template-note text-gray]
 Fixed position background image template.
 @snapend
+
++++?image=template/img/6.jpg
+@title[Positioned Background]
+
+## Is the @size[2.2em](grass) @color[green](always) greener on the other side?
+
+@snap[north-east template-note text-gray]
+Fixed position background image template.
+@snapend
+
+
++++?image=template/img/7.jpg
+@title[Positioned Background]
+
+## Is the @size[2.2em](grass) @color[green](always) greener on the other side?
+
+@snap[north-east template-note text-gray]
+Fixed position background image template.
+@snapend
+
