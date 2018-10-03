@@ -14,11 +14,11 @@
 @title[Covered Background]
 
 @snap[west text-black span-15]
-**@size[1.2em](Where words fail, music speaks.)**
+**@size[1.1em](Cables Structure.)**
 @snapend
 
 @snap[south-west template-note text-white]
-Covered background image template.
+Ethernet, Second screen, Mouse, Headphones.
 @snapend
 
 [comment]: <> (+++?image=template/img/dataflow.png&size=contain)
@@ -26,26 +26,18 @@ Covered background image template.
 @title[Contained Background]
 
 @snap[south-west template-note text-gray]
-Contained background image template.
+Office.
 @snapend
 
 
-[comment]: <> (+++?image=template/img/batman.png&size=contain&color=linear-gradient(to right, #009fff, #ec2f4b))
 +++?image=template/img/3.jpg
 @title[Transparent Background]
 
-[comment]: <> (@snap[north-east text-white span-20]
-@quote[It's what I do that defines me.](Bruce Wayne)
-[comment]: <> (@snapend)
 
-
-[comment]: <> (@snap[south-west template-note text-white]
-Transparent background with gradient template.
-@snapend)
-
-@snap[south-east text-white]
-@size[0.3em](HUMAN-ENTER COMPUTER LAB)
+@snap[south-east template-note text-white]
+Human-Center Computer Lab.
 @snapend
+
 
 [comment]: <> (+++?image=template/img/geek.png&repeat=repeat-x&color=#F5DB2E&size=25% auto
 +++?image=template/img/geek.png&repeat=repeat-x&color=#F5DB2E&size=25% auto
