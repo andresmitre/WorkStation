@@ -94,7 +94,7 @@ Covered background animated GIF template.
 @snapend
 )
 
-+++?image=template/img/grass.png&position=bottom&size=100% 30%
++++?image=template/img/1.png&position=bottom&size=100% 30%
 @title[Positioned Background]
 
 ## Is the @size[2.2em](grass) @color[green](always) greener on the other side?
