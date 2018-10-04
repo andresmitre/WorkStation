@@ -1,7 +1,7 @@
 ---?image=template/img/8.jpg
 @title[Image Templates]
 
-## @color[black](ilustraciones del<br>area de trabajoe)
+## @color[black](Ilustraciones del<br>area de trabajoe)
 
 @fa[arrow-down text-black]
 

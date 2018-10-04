@@ -12,6 +12,7 @@ ANDRES MITRE
 
 ---?include=template/md/list-content/PITCHME.md
 
+---?include=template/md/announcement/PITCHME.md
+
 ---?include=template/md/image/PITCHME.md
 
----?include=template/md/announcement/PITCHME.md
