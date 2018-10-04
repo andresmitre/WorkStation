@@ -1,7 +1,7 @@
 ---?image=template/img/8.jpg
 @title[Image Templates]
 
-## @color[black](my<br>office space)
+## @color[black](ilustraciones del<br>area de trabajoe)
 
 @fa[arrow-down text-black]
 

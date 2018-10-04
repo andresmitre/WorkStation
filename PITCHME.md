@@ -6,7 +6,7 @@ Mi espacio<br>*de trabajo*
 @snapend
 
 @snap[south-west byline  text-white]
-ANDRES MITRE.
+ANDRES MITRE
 @snapend
 
 
