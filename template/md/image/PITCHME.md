@@ -30,11 +30,6 @@ Office.
 +++?image=template/img/3.jpg
 @title[Transparent Background]
 
-
-@snap[south-west template-note text-white]
-Human-Center Computer Lab.
-@snapend
-
 +++?image=template/img/4.jpg
 @title[Transparent Background]
 
