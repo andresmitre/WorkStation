@@ -10,11 +10,13 @@
 @snapend
 
 
-+++?image=template/img/1.jpg
-@title[Covered Background]
++++?image=template/img/7.jpg
+@title[Positioned Background]
 
-@snap[west text-black span-15]
-**@size[1.1em](Cables Structure.)**
+## Is the @size[2.2em](grass) @color[green](always) greener on the other side?
+
+@snap[north-east template-note text-gray]
+Human-Centered Computer Lab @color[red](HCC - CIMAT).
 @snapend
 
 @snap[south-west template-note text-white]
@@ -41,9 +43,15 @@ Human-Center Computer Lab.
 +++?image=template/img/4.jpg
 @title[Transparent Background]
 
-
 @snap[south-east template-note text-white]
 Human-Center Computer Lab.
+@snapend
+
++++?image=template/img/1.jpg
+@title[Covered Background]
+
+@snap[west text-black span-15]
+**@size[1.1em](Cables Structure.)**
 @snapend
 
 
@@ -65,15 +73,5 @@ Fixed position background image template.
 
 @snap[north-east template-note text-gray]
 Fixed position background image template.
-@snapend
-
-
-+++?image=template/img/7.jpg
-@title[Positioned Background]
-
-## Is the @size[2.2em](grass) @color[green](always) greener on the other side?
-
-@snap[north-east template-note text-gray]
-Fixed position background image @color[red](template).
 @snapend
 
