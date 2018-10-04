@@ -1,7 +1,7 @@
----?image=template/img/8.jpg
++++?image=template/img/8.jpg
 @title[Image Templates]
 
-## @color[black](my<br>Office space)
+## @color[black](my<br>office space)
 
 @fa[arrow-down text-black]
 
