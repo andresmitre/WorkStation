@@ -1,4 +1,4 @@
-+++?image=template/img/8.jpg
+---?image=template/img/8.jpg
 @title[Image Templates]
 
 ## @color[black](my<br>office space)
