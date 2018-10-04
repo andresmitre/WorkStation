@@ -24,7 +24,7 @@ Características
 - Espacio: 2x2 mts, colores neutros.
 - Organización: escritorio limpio y limpio.
 - Monitor: LCD 22 inches con buena altura.
-- Mouse: 9 botones configurable, mousepad con gel.
+- Mouse: 9 botones configurable, mousepad.
 - Silla: estatica.
 @olend
 <br><br>

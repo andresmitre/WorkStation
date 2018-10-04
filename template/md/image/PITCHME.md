@@ -14,11 +14,10 @@
 
 
 @snap[north-east template-note text-gray]
-Human-Centered Computer Lab @color[red](HCC - CIMAT).
+Human-Centered Computer Lab @color[red](HCC - CIMAT)
 @snapend
 
 
-[comment]: <> (+++?image=template/img/dataflow.png&size=contain)
 +++?image=template/img/2.jpg
 @title[Contained Background]
 
