@@ -1,12 +1,12 @@
----?image=template/img/pencils.jpg
+---?image=template/img/background.jpg
 @title[Image Templates]
 
-## @color[black](Image<br>Slide Templates)
+## @color[black](My<br>Office space)
 
 @fa[arrow-down text-black]
 
 @snap[south docslink span-50]
-[The Template Docs](https://gitpitch.com/andresmitre/WorkStation/)
+[Andres Mitre](https://gitpitch.com/andresmitre/WorkStation/)
 @snapend
 
 +++?image=template/img/7.jpg
