@@ -74,6 +74,6 @@ Fixed position background image template.
 ## Is the @size[2.2em](grass) @color[green](always) greener on the other side?
 
 @snap[north-east template-note text-gray]
-Fixed position background image template.
+Fixed position background image @color[red](template).
 @snapend
 
