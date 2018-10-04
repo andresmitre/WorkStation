@@ -9,25 +9,20 @@
 [The Template Docs](https://gitpitch.com/andresmitre/WorkStation/)
 @snapend
 
-
 +++?image=template/img/7.jpg
 @title[Positioned Background]
 
-## Is the @size[2.2em](grass) @color[green](always) greener on the other side?
 
 @snap[north-east template-note text-gray]
 Human-Centered Computer Lab @color[red](HCC - CIMAT).
 @snapend
 
-@snap[south-west template-note text-white]
-Ethernet, Second screen, Mouse, Headphones.
-@snapend
 
 [comment]: <> (+++?image=template/img/dataflow.png&size=contain)
 +++?image=template/img/2.jpg
 @title[Contained Background]
 
-@snap[south-west template-note text-gray]
+@snap[south-east template-note text-white]
 Office.
 @snapend
 
@@ -36,7 +31,7 @@ Office.
 @title[Transparent Background]
 
 
-@snap[south-east template-note text-white]
+@snap[south-west template-note text-white]
 Human-Center Computer Lab.
 @snapend
 
@@ -47,6 +42,11 @@ Human-Center Computer Lab.
 Human-Center Computer Lab.
 @snapend
 
+
++++?image=template/img/5.jpg
+@title[Positioned Background]
+
+
 +++?image=template/img/1.jpg
 @title[Covered Background]
 
@@ -54,22 +54,13 @@ Human-Center Computer Lab.
 **@size[1.1em](Cables Structure.)**
 @snapend
 
-
-
-
-+++?image=template/img/5.jpg
-@title[Positioned Background]
-
-## Is the @size[2.2em](grass) @color[green](always) greener on the other side?
-
-@snap[north-east template-note text-gray]
-Fixed position background image template.
+@snap[south-west template-note text-white]
+Ethernet, Second screen, Mouse, Headphones.
 @snapend
 
 +++?image=template/img/6.jpg
 @title[Positioned Background]
 
-## Is the @size[2.2em](grass) @color[green](always) greener on the other side?
 
 @snap[north-east template-note text-gray]
 Fixed position background image template.
